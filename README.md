@@ -1,4 +1,3 @@
-This project is part of the trial task to conceptualize and develop one **core component** of the ecosystem using modern web technologies.
 
 ---
 
