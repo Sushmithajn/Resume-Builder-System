@@ -65,7 +65,7 @@ Your core task is to conceptualize and build **one key component** of this ecosy
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/<your-username>/ResumeBuilderSystem.git
+   git remote add origin https://github.com/Sushmithajn/Resume-Builder-System.git
 Navigate to project folder
 
 bash
