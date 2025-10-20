@@ -14,28 +14,6 @@ Each activity completed by a user automatically updates their verified professio
 
 ---
 
-## 🎯 Objectives
-
-Your core task is to conceptualize and build **one key component** of this ecosystem:
-1. **Frontend Development** – Modern UI for resume preview & customization (React/Next.js)
-2. **Backend Development** – APIs for managing resume data, authentication, and integration
-3. **UI/UX Design** – User flow and prototype screens for resume generation & editing
-4. **AI/Automation** – Auto-generate professional summaries using user data
-5. **Database Architecture** – Relational schema for users, projects, courses, and skills
-
----
-
-## 🧠 Key Features
-
-- 🔐 **User Authentication:** Secure login and registration system  
-- 🧾 **Dynamic Resume Builder:** Automatically updates with verified data  
-- 🧩 **Integration Ready:** Connects to internships, hackathons, and course platforms  
-- 🧠 **AI Resume Summary:** Generates smart summaries based on user activity  
-- 🛠️ **Modern Dashboard:** Manage education, projects, skills, and certifications  
-- ☁️ **Cloud Storage:** Save resumes and files in Supabase or MongoDB  
-
----
-
 ## 🧱 Data Model Overview
 
 | Module | Fields |
